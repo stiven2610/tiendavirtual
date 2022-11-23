@@ -7,15 +7,15 @@
     "start": "nodemon app.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/sofialopsil123/petshop.git"
+    "type": "GitHub",
+    "url": "git+https://github.com/stiven2610/tiendavirtual"
   },
-  "author": "grupo04",
+  "author": "Yeison Stiven Gutierrez Rozo",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/sofialopsil123/petshop/issues"
+    "url": "https://github.com/stiven2610/tiendavirtual/issues"
   },
-  "homepage": "https://gitlab.com/sofialopsil123/petshop#readme",
+  "homepage": "https://github.com/stiven2610/tiendavirtual#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2",
