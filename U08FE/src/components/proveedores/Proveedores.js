@@ -1,5 +1,5 @@
 import React ,{useState,useEffect} from 'react';
-import{listarProveedoresAPI,agregarProveedoresAPI,eliminarProveedoresAPI, actualizarProveedoresAPI}from '../.././apis/ProveedoresApis';
+import{listarProveedoresAPI,agregarProveedoresAPI,eliminarProveedoresAPI, actualizarProveedoresAPI}from '../.././apis/proveedoresApis';
 import TablaProveedores from './TablaProveedores';
 import FormProveedores from './FormProveedores';
 
